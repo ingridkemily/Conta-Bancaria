@@ -1,14 +1,14 @@
 ## Teste de Saque em Conta Bancária
 
-Este projeto contém uma classe Java chamada `Conta` para testar saques em uma conta bancária usando Cucumber para testes comportamentais.
+Este projeto contém uma classe Java chamada Conta para testar saques em uma conta bancária usando Cucumber para testes comportamentais.
 
 ### Classe Conta
 
-A classe `Conta` tem atributos como `saldo`, indicando o saldo atual, e métodos Cucumber para definir comportamentos em cenários específicos.
+A classe Conta tem atributos como saldo, indicando o saldo atual, e métodos Cucumber para definir comportamentos em cenários específicos.
 
 ### Execução dos Testes
 
-Os testes são executados pela classe `Runner`, usando o arquivo de feature `arquivos_teste.feature`.
+Os testes são executados pela classe Runner, usando o arquivo de feature arquivos_teste.feature.
 
 ### Keywords Summary
 
